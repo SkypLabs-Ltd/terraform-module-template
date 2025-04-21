@@ -1,1 +1,1 @@
-# https://www.terraform.io/docs/language/providers/index.html.
+# https://opentofu.org/docs/language/providers/.
